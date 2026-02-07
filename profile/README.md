@@ -66,10 +66,10 @@ Mewujudkan Lulusan Yang Kompeten, Berkarakter, Berdaya Saing, Siap Menghadapi Du
 ## 🚀 Teknologi yang Digunakan
 
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Framework**: Bootstrap
-- **Backend**: PHP
-- **Database**: MySQL
-- **Hosting**: Server lokal dan GitHub/CloudFlare Pages
+- **Framework**: Murni (Tidak Ada)
+- **Backend**: Statis (Tidak Ada)
+- **Database**: Statis (Tidak Ada)
+- **Hosting**: Server CloudFlare dari GitHub
 - **CMS**: Custom CMS
 
 ## 📱 Fitur Mobile
@@ -116,7 +116,7 @@ Proyek ini dilisensikan under MIT License - lihat file [LICENSE](LICENSE) untuk 
 
 ## 🙏 Terima Kasih
 
-Terima kasih kepada semua pihak yang telah berkontribusi dalam pengembangan website ini:
+Terima kasih kepada semua pihak yang telah berkontribusi dalam pengembangan jati diri saya:
 - Tim IT SMK Negeri 4 Banjarmasin
 - Seluruh tenaga pendidik dan kependidikan
 - Siswa dan alumni SMK Negeri 4 Banjarmasin
@@ -124,4 +124,4 @@ Terima kasih kepada semua pihak yang telah berkontribusi dalam pengembangan webs
 
 ---
 
-© 2025 SMK Negeri 4 Banjarmasin. All rights reserved.
+© 2026 SMK Negeri 4 Banjarmasin. All rights reserved.
