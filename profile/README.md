@@ -32,7 +32,8 @@ Mewujudkan Lulusan Yang Kompeten, Berkarakter, Berdaya Saing, Siap Menghadapi Du
 
 ### URL Utama
 - **Website Resmi SMKN 4 Banjarmasin**: [smkn4bjm.sch.id](https://smkn4bjm.sch.id)
-- **Website OSIS SMKN 4 Banjarmasin**: [skenpat](https://skenpat.pages.dev)
+- **Website OSIS SMKN 4 Banjarmasin**: Belum ada
+- **Website Layanan Buatan Siswa/I**: [skenpintas.org](https://skenpat.pages.dev)
 
 ### Fitur Website
 1. **Profil Sekolah**
