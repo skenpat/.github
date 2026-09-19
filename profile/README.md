@@ -3,7 +3,7 @@
 # Website SMK Negeri 4 Banjarmasin (Skenpat)
 
 [![Official Website](https://img.shields.io/badge/Website-smkn4bjm.sch.id-blue?style=for-the-badge&logo=earth)](https://smkn4bjm.sch.id)
-[![Subdomain](https://img.shields.io/badge/Subdomain-skenpat.pages.dev-green?style=for-the-badge&logo=github)](https://skenpat.pages.dev)
+[![Proyek Thio](https://img.shields.io/badge/Subdomain-skenpat.pages.dev-green?style=for-the-badge&logo=github)](https://skenpat.pages.dev/app)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 Landing page tidak/belum resmi **SMK Negeri 4 Banjarmasin** (Skenpat) yang menyediakan informasi lengkap tentang sekolah, jadwal pelajaran, profil tenaga pendidik, dan berbagai layanan pendidikan lainnya. 
